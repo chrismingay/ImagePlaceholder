@@ -49,6 +49,7 @@
 
                     $fontFile = ($this->fontFile!='')  ?  $this->fontFile  :  'Arvo-Regular.ttf';
                     $fontSize = 20;
+                    error_log($fontFile);
 
                     $lineThickness = 1;
 
