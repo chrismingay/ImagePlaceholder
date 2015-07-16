@@ -55,7 +55,7 @@
 
                     // Create image			
                     $this->image = imagecreatetruecolor($w, $h); 
-                    imageantialias($this->image, true );
+                    // imageantialias($this->image, true );
 
 
                     // Colors
